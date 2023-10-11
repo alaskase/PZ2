@@ -1,3 +1,4 @@
+![12](https://github.com/alaskase/PZ2/assets/145039541/4bf15899-d5ef-4bcf-af04-bace64cd6a64)
 # 1) Установка ОС Debian 12 в виртуальной среде:
 ![Процесс установки Debian 12](/images/01.jpg)
 
