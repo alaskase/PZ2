@@ -1,4 +1,4 @@
-
+     Идентификация и аутентификация
 # 1) Установка ОС Debian 12 в виртуальной среде:
 ![Процесс установки Debian 12](/images/01.jpg)
 ![01](https://github.com/alaskase/PZ2/assets/145039541/ddcd2fe8-ca82-411a-8fc0-2f44ac02a571)
